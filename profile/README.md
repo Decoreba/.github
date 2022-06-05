@@ -1,5 +1,5 @@
-<img src="logo_square.png" alt="Logo do Decoreba" height="150">
-<img src="google_play.png" alt="Logo do Decoreba" height="100">
+<img src="/profile/logo_square.png" alt="Logo do Decoreba" height="150">
+<img src="/profile/google_play.png" alt="Logo do Decoreba" height="100">
 
 # Decoreba: a procastinação do bem
 
